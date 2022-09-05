@@ -1,0 +1,8 @@
+{
+    "api_key":"INSIRA SEU CONSUMER KEY",
+    "api_secret":"INSIRA SEU CONSUMER SECRET",
+    "access_token":"INSIRA SEU ACCESS TOKEN",
+    "access_secret":"INSIRA SEU ACCESS SECRED",
+    "bearer":"INSIRA O BEARER TOKEN DA REQUISIÇÃO DO NAVEGADOR",
+    "bearer_api":"INSIRA O BEARER TOKEN DO PORTAL DO DESEVOLVEDOR"
+}
