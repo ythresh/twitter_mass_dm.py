@@ -87,7 +87,6 @@ def scrappar(username, token1, token2):
     'x-csrf-token': '66c2c9c47018f23ad0bda642eb3645acd4e4333af5e0e647e99fb59ae76389af407426e2f3ca7ae1cb704efac93a942b06ea516dfe1c6a23c50f2d4c7cea832f6eeb87ad72a547abf5c9dc709bf9e5fc',
     'Origin': 'https://twitter.com',
     'Referer': 'https://twitter.com/home',
-    'Cookie': 'guest_id_marketing=v1%3A166145103892301611; guest_id_ads=v1%3A166145103892301611; personalization_id="v1_ue6WXpfQfn2OqLGTCsbNcg=="; guest_id=v1%3A166145103892301611; ct0=66c2c9c47018f23ad0bda642eb3645acd4e4333af5e0e647e99fb59ae76389af407426e2f3ca7ae1cb704efac93a942b06ea516dfe1c6a23c50f2d4c7cea832f6eeb87ad72a547abf5c9dc709bf9e5fc; gt=1562865063413039107; external_referer=padhuUp37zjgzgv1mFWxJ12Ozwit7owX|0|8e8t2xd8A2w%3D; _twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCAMMM9aCAToMY3NyZl9p%250AZCIlOTUyNDUyZjdmZGViMTA2NzhiZTEzZTJiZTNlZTdhN2Q6B2lkIiU0ODky%250AYzM5Y2RlZmZkZjdiYjU2OTBmYmUwZjA4ZGJkMg%253D%253D--313888e0b93fb914fa3e9638505a77b548fe9ad6; _ga=GA1.2.97740880.1661451091; _gid=GA1.2.2065820486.1661451091; kdt=v2qP4CDPYNMbXc2dMME2bLOunwUjg1zKyB7JHyjA; twid=u%3D1492941110045519874; auth_token=a6c5e59ccb5fc1587683c676ead8d6145e1ed94d; att=1-mm1vljgM8d39aILUGN6VdLFqe87KkznKgq9lxQq1',
     'Sec-Fetch-Dest': 'empty',
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'same-origin',
